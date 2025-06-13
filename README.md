@@ -1,3 +1,3 @@
-# Tec2-PP
+# Tec3-PP
 Practicas Profesionalizantes 2025
-https://diemontoto.github.io/Tec2-PP/
+https://diemontoto.github.io/Tec2-PP
